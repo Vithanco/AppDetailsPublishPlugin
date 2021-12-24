@@ -59,4 +59,4 @@ Matthew Flint, m@tthew.org
 _AppDetailsPublishPlugin_ is available under the MIT license. See the LICENSE file for more info.
 
 [publish-github]: https://github.com/johnsundell/publish
-[example-css]: https://gitlab.com/mflint/appdetailsplugin/-/snippets/2226920
+[example-css]: https://gitlab.com/mflint/appdetailspublishplugin/-/snippets/2226920
