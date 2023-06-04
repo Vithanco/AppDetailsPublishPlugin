@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "AppDetailsPublishPlugin",
 	platforms: [
-		.macOS(.v10_15),
+		.macOS(.v12),
 	],
     products: [
         .library(
@@ -14,7 +14,7 @@ let package = Package(
             targets: ["AppDetailsPublishPlugin"]),
     ],
     dependencies: [
-		.package(url: "https://github.com/johnsundell/publish.git", from: "0.8.0")
+		.package(url: "https://github.com/johnsundell/publish.git", from: "0.9.0")
     ],
     targets: [
         .target(
